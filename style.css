@@ -7,10 +7,11 @@ body{
    -moz-background-size: cover;
    -o-background-size: cover;
    background-size: cover;
-text-shadow: 2px 2px #FF0000;
+   text-shadow: 2px 2px black;
 
 }
 p{
-text-shadow: 2px 2px #FF0000;
+    color: white;
+    text-shadow: 2px 2px black;
     font-size: 70;
 }
