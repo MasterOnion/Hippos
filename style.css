@@ -8,7 +8,7 @@ body{
    -o-background-size: cover;
    background-size: cover;
    text-shadow: 2px 2px black;
-
+   color: white;
 }
 p{
     color: white;
